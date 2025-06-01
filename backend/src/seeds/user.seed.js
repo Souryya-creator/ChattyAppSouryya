@@ -7,20 +7,20 @@ config();
 const seedUsers = [
   // Female Users
   {
-    email: "emma.thompson@example.com",
-    fullName: "Emma Thompson",
+    email: "Karena.Kappor@example.com",
+    fullName: "Karena Kappor",
     password: "123456",
     profilePic: "https://randomuser.me/portraits/women/1.jpg",
   },
   {
-    email: "olivia.miller@example.com",
-    fullName: "Olivia Miller",
+    email: "Anushka.Sharma@example.com",
+    fullName: "Anushka Sharma",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/2.jpg",
   },
   {
-    email: "sophia.davis@example.com",
-    fullName: "Sophia Davis",
+    email: "Rangobai.Devi@example.com",
+    fullName: "Rangobai Davi",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/3.jpg",
   },
